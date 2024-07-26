@@ -38,7 +38,7 @@ module.exports.versions = [
   '0.58.1',
   '0.59.3',
   '0.59.4',
-  '0.67.4'
+  '0.67.5'
 ];
 
-module.exports.target = '0.67.4';
+module.exports.target = '0.67.5';
