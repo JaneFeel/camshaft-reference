@@ -1155,7 +1155,7 @@
                 "source": {
                     "type": "node",
                     "geometry": [
-                        "point"
+                        "*"
                     ]
                 },
                 "src_lon": {
